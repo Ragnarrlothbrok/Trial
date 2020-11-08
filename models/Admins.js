@@ -11,6 +11,10 @@ const AdminSchema = new schema({
     type: String,
     required: true,
   },
+  email2: {
+    type: String,
+    required: true,
+  },
   password: {
     type: String,
     required: true,
