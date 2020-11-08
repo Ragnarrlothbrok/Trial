@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blackinza",
+  "private_key_id": "4873d16b9ccea904bea73d087196eeb4e12b0727",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE1TeqZD+J/6xJ\nbq782mVbHVqPm4CvB1Iohhlv0nYrzvPrkMAf9KhrNNmup5s300nFo+mloRQAQYu4\nry4+Ik+aM4NdsVIBto9IxFquB38kZc+GJiOT23nLAM5N7lrQNlNbqmYHrxu1V529\nVrn5I15WJ+zLJ+f4tykBCpCz+YqEAtyPr+XFjN98kbNMTuxjEQ8kp5lP3BhC383v\nuWv2NyCGSAgG8Eyxco5g6P54OHp8BQGPINgsJbH0Da4KkBdbfpLEvJQORUWiYTZ0\nYxznCaGTZsTEJqTyYtu/y28WO1/FEKa9HmxTFLMB8RtwjSUH/87BHX99jEv/svT1\nczKXNf7VAgMBAAECggEALAO92eVm6/X3UchlavdvWMucl6ZfRURu088A2yeF80/o\n7ZFF1R+Blc+QqeSi6f3ebkq0EayOa2w80USjI5PKlyHTy1y+iNGJAu2dlXLptHrr\nyAS5SfP3LTT17SlSt2Kei030WN2IZam9BTzig1qsWrm80sUOs2hJzAjPyN8RYWlZ\nhbjudOGE5ShzhFM+U/JhqJHHOPclMniNOeHlID4SLJs9dllKG2AXrU3VNGUWgVyX\nup2It+Lf2y2UK7U1PIiGVUqiD2KgDtGvZLrYCbpDQbQvVvNtUmgMXUrTp3EQ3M6M\nZuHxs4bAP08YzeNiQoBv9DeHXch5gYbfBOB9yPkDgQKBgQD3r7NjI4wKliPVAqSb\nOzPB7iDCke2PeWV1jFfdf0298VRpGwM7yW5DFxzIjEl2SGW1t77yVFX6TOj2d8UQ\n9kJxrb2cAolc6jYKqWrFzYFiVxrfynF/PubbTDBbJdLwkrMnjaXMWEgUjoD5/1w1\n5wTFqhypYbxisPkt3J4odDqHoQKBgQDLcIwZBZvVQU+5NMb4qEM4KhTg3FIIHwZ3\nBTBq6fAaaGrXeV9Rs96389gUjYvrcOZbNb4Ju7qwnLmB1eH6v57qZjvAwgXPb0/w\nPFYLhXJt4HmA91p7NkgW7XHe6u2A7e8lIMqp+xsXVNy63iN2nbXnqUsDv4vvxVRv\nCwF3vjXatQKBgDepfJ7i9i3K3/KWzXc1LsR+R05yjPiZR3vLNlPIsCfnfBjCwU9G\nTUk2gHlxTXEPhAv6Zyb+XPQLJK9+6wKM1RHHAb11tHj1CYAL4rrhHBqFiLySOj9m\nW2sdDCDvtx/pV+mjo4bwsAIupD2KbaaPbDsfp6FJHZTwQI9V7RUaSa0BAoGBAKid\nGaDLg0MXJKqOUbNaUoxEZJWSRfMxM7yF8oFKb5SToqoAkL445Il2c0tlneh/5I0I\nV//dNniXDTHNQcT/+QixvyieJw6sZYbpmy9lZVgoSsxXNwkUDl/iYRSvhjXr/t+4\n9AA6fVOzJFdFMgNn55KgP+pVYfhShw6aApdqcVxZAoGAPWX3CJue5TgX/2wnyo7Y\nDBLwlRDBuJQYdxi+FJgBICyt6tNHlrkLpA9ucrz2T5WImx7r+2k2bSvgoL9pZw3Z\nZOVFA5LA7vITKh32wKHycqy02z6mjNyh7UFB3RUmxW2AqlcEwDOuq0Rypfks7q25\nrKEdCAsfhJzL6Qd/JENY1rs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adminpanel@blackinza.iam.gserviceaccount.com",
+  "client_id": "110855959671694522386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adminpanel%40blackinza.iam.gserviceaccount.com"
+}
